@@ -7,7 +7,7 @@
 # followed by items read from standard input
 #
 
-file_pkg="packages_kali.lst"
+file_pkg="pkgs_kali.lst"
 
 CAT=$(command -v cat)
 XARGS=$(command -v xargs)
